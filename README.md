@@ -3,12 +3,42 @@
 ## Register Number:
 ## Name:
 ## Problem Title
-SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
+SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
-Background: Railway stations are complex environments with numerous facilities and locations such as ticket counters, platforms, restrooms, food courts, and waiting areas. Passengers often face difficulties in navigating these spaces, especially in large or unfamiliar stations. Efficient and user-friendly navigation systems are crucial for improving passenger experience, reducing congestion, and ensuring timely travel connections. Description: The problem involves developing a comprehensive navigation solution for railway stations that assists passengers in locating various facilities and destinations within the station premises. This includes creating detailed maps, providing real-time directions, and integrating features such as accessibility options for individuals with disabilities. The solution should be intuitive, easy to use, and accessible via multiple platforms, including mobile devices and digital kiosks. Key challenges include updating navigation information in real-time, ensuring accuracy, and accommodating the diverse needs of all passengers. Expected Solution: The expected solution is a multi-platform navigation system that provides detailed, real-time directions to all facilities and locations within a railway station. This system should include: A mobile application with 3D interactive maps and step-by-step navigation. Digital kiosks located throughout the station with touch-screen interfaces. Voice-guided navigation for visually impaired passengers. Regular updates to reflect changes in station layout and facility locations. Integration with existing railway apps and services for seamless user experience. The solution should enhance the overall passenger experience by reducing confusion, saving time, and improving accessibility within the station.
+A majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.
+
+Impact / Why this problem needs to be solved
+
+Helping small farmers make informed decisions can significantly increase productivity, reduce costs, and improve livelihoods. It also contributes to sustainable farming practices, food security, and environmental conservation. A smart advisory solution can empower farmers with scientific insights in their native language and reduce dependency on unreliable third-party advice.
+
+Expected Outcomes
+
+• A multilingual, AI-based mobile app or chatbot that provides real-time, location-specific crop advisory.
+• Soil health recommendations and fertilizer guidance.
+• Weather-based alerts and predictive insights.
+• Pest/disease detection via image uploads.
+• Market price tracking.
+• Voice support for low-literate users.
+• Feedback and usage data collection for continuous improvement.
+
+Relevant Stakeholders / Beneficiaries
+
+• Small and marginal farmers
+• Agricultural extension officers
+• Government agriculture departments
+• NGOs and cooperatives
+• Agri-tech startups
+
+Supporting Data
+
+• 86% of Indian farmers are small or marginal (NABARD Report, 2022).
+• Studies show ICT-based advisories can increase crop yield by 20–30%.
 
 ## Problem Creater's Organization
-Ministry of Railway
+Government of Punjab
+
+## Theme
+Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 <h3>Remove These Lines</h3>
