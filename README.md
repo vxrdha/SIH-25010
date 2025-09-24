@@ -41,7 +41,6 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-olution
 A Smart Crop Advisory System (mobile + web + IVR platform) that combines AI, IoT, and localized knowledge to provide farmers with real-time, actionable insights.
 
 Farmers input or upload soil test reports / crop info.
