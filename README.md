@@ -54,7 +54,7 @@ Farmers can upload crop/pest images → AI detects diseases and suggests treatme
 Provides mandi prices & government schemes updates.
 
 
-HOW IT ADDRESSES THE PROBLEM:
+#HOW IT ADDRESSES THE PROBLEM:
 
 Eliminates guesswork & dependency on shopkeepers.
 
