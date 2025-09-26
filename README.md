@@ -54,7 +54,7 @@ Farmers can upload crop/pest images → AI detects diseases and suggests treatme
 Provides mandi prices & government schemes updates.
 
 
-How it Addresses the Problem:
+HOW IT ADDRESSES THE PROBLEM:
 
 Eliminates guesswork & dependency on shopkeepers.
 
@@ -62,8 +62,8 @@ Bridges digital divide with voice + regional languages.
 
 Promotes eco-friendly & profitable farming.
 
-
-Innovation and Uniqueness:
+ 
+INNOVATION AND UNIQUENESS:
 
 Voice-first app (supports illiterate farmers).
 
@@ -93,7 +93,7 @@ APIs: IMD weather data, Government mandi price APIs, Soil health card integratio
 Hardware (optional IoT): Low-cost soil moisture sensors, weather stations
 
 
-Methodology & Process (Flow):
+METHODOLOGY AND IMPLEMENTATION (FLOW):
 
 1. Data Collection (Soil, weather, crop stage, user input).
 
@@ -149,7 +149,7 @@ India already has open APIs for weather & mandi prices.
 Can integrate with government schemes (PM-Kisan, Soil Health Card).
 
 
-Potential Challenges & Risks:
+POTENTIAL CHALLENGES AND RISKS:
 
 Digital illiteracy among older farmers.
 
@@ -158,7 +158,7 @@ Poor internet in rural areas.
 Trust-building in technology.
 
 
-Strategies to Overcome:
+STRAGIES TO OVERCOME:
 
 Offline mode + SMS/IVR advisories.
 
@@ -167,7 +167,7 @@ Partnerships with NGOs & Krishi Vigyan Kendras for training.
 Collaborations with state agriculture departments to boost adoption.
 
 ## Impact and Benefits
-Impact on Target Audience:
+IMPACT ON TARGET AUDIENCE:
 
 Small farmers get trusted, scientific, and localized advice.
 
@@ -176,7 +176,7 @@ Reduced costs due to optimized inputs.
 Increased yield & income for rural households.
 
 
-Benefits:
+BENEFITS:
 
 Social: Empowers rural communities, reduces exploitation.
 
